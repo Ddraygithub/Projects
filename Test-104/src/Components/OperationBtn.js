@@ -2,6 +2,8 @@ import React from 'react';
 import styled from 'styled-components';
 
 
+// This seems not useful
+
 function OperationBtn({dispatch, ACTION, Oper, rOper}) {
   return (
     <Cont>
